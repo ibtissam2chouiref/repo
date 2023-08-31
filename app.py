@@ -1,3 +1,4 @@
+!pip install streamlit streamlit_chat pypdf langchain torch accelerate bitsandbytes transformers sentence_transformers 
 import streamlit as st 
 from streamlit_chat import message
 import tempfile
